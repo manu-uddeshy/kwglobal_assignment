@@ -1,0 +1,6 @@
+name: 'kw global module'
+description: 'Module to log input in watchdog.'
+core_version_requirement : ^8 || ^9
+package: Custom
+type: module
+version: 1.0

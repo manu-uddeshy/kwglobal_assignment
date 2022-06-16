@@ -1,0 +1,7 @@
+kw_global_module.user_config:
+  path: '/admin/config/system/user-form'
+  defaults:
+    _title: 'User Configuration Form'
+    _form: 'Drupal\kw_global_module\Form\KwGlobalInputForm'
+  requirements:
+    _permission: 'administer site configuration'
